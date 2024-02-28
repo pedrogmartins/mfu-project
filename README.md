@@ -1,8 +1,8 @@
-# GCMC Project
+# MFU Project
 
-Investigation of gas adsoprtion in MOFs systems using neural network potential driven grand canonical Monte Carlo simulations. Here you will find a sample of scripts and jupyter notebooks to implement workflow tasks. 
+Computational study regulating π-back-bonding strength of Cu site in MOF system with a series of gas host molecules. Calculations include first-principles relaxations to identify local geometry and interaction energetics correlations, local orbital projections, bond vibrational stretch predictions and nudged elastic band simulations. Here you will find a sample of parsers to implement workflow tasks.
 
 
 ## Publications
 
-**Guimarães Martins, Pedro**, et al. "Prediction of Metal-Organic Framework Adsorption Isotherms using Ab Initio derived Neural Network Potentials". (in preparation, presented at APS 2023 March Meeting and AIChE 2023 Annual Meeting))
+Carsch, Kurtis M., ..., **Guimarães Martins, Pedro**, et al. "“Tuning CO π-Backbonding Adsorption in a Metal–Organic Framework with Trigonal Pyramidal Copper(I) Sites”". (in preparation)
